@@ -1,0 +1,6 @@
+Ajouter :
+//cdn.datatables.net/plug-ins/1.10.9/features/searchHighlight/dataTables.searchHighlight.min.js
+//cdn.datatables.net/plug-ins/1.10.9/features/searchHighlight/dataTables.searchHighlight.css
+
+et le jQuery Highlight plug-in
+//bartaz.github.io/sandbox.js/jquery.highlight.js

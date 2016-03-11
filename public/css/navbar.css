@@ -1,0 +1,25 @@
+body {
+/* padding-top: 20px; */
+  padding-bottom: 20px; 
+  background-color: #eeeeee;
+}
+
+.navbar {
+  margin-bottom: 5px;
+}
+
+.in-bold {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.in-image {
+    float: left;
+    padding-right: 25px;
+}
+
+/* Pour affichage correct du Search de Datatable */
+div.dataTables_filter input.form-control {
+  width: auto;
+}
+
